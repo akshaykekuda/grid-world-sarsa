@@ -1,4 +1,4 @@
-# Finding the optimal policy for a grid world using SARSA: On policy TD Control
+# Finding the optimal policy for a grid world using SARSA and linear function approximation
 
 ## Grid World Problem
 
